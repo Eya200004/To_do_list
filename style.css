@@ -151,11 +151,12 @@ header nav a:hover, header nav .active {
     font-size:20px;
 }
 
-.actions a {
-    text-decoration:none;
-    cursor:pointer;
-    transition:0.2s;
+.actions a i {
+    color: #000;
+    font-size: 18px;
+    transition: 0.2s;
 }
+
 
 .actions .edit:hover { transform:scale(1.2); }
 .actions .check { color:#22c55e; }
