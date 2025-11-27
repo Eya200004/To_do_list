@@ -4,3 +4,5 @@
 *.log
 *.cache
 *.sqlite
+/composer.json
+/composerlock
